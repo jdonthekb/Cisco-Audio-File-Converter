@@ -1,0 +1,4 @@
+watchdog
+numpy
+soundfile
+g711
